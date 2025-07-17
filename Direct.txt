@@ -1,4 +1,3 @@
-
 payload:
   - '265.com'
   - '2mdn-cn.net'
@@ -120300,4 +120299,3 @@ payload:
   - '+.zzzyyy.com'
   - '+.zzzzaaaa.com'
   - '+.zzzzzz.me'
-  - '+.ip138.com'
