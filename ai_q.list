@@ -1,0 +1,16 @@
+# >> Google Gemini 
+host-suffix,ai.google.dev,Ai
+host-suffix,ai.google,Ai
+host-suffix,gstatic.com,Ai
+host-suffix,bard.google.com,Ai
+host-suffix,gemini.google.com,Ai
+host-suffix,waa-pa.clients6.google.com,Ai
+host-suffix,aistudio.google.com,Ai
+host-suffix,generativelanguage.googleapis.com,Ai
+host-suffix,people-pa.clients6.google.com,Ai
+host-suffix,deepmind.com,Ai
+host-suffix,deepmind.google,Ai
+host-suffix,generativeai.google,Ai
+host-suffix,proactivebackend-pa.googleapis.com,Ai
+host-suffix,apis.google.com,Ai
+host-suffix,clients6.google.com,Ai
